@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Social Network for Book Lovers and Reading Groups</title>
+        <link rel="stylesheet" href="styless.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,900;1,200&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <section class="header">
+          <nav>
+            <a href="Project html.html"><img class="image" src="images/logo.jpg"></a>
+            <div class="nav-links">
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">BLOG</a></li>
+                    <li><a href="">CONTACT</a></li>
+                    <li><a href="">LOGIN</a></li>
+                </ul>
+            </div>
+        </nav> 
+        <div class="text-box">
+        <h1>SOCIAL NETWORK FOR BOOK LOVERS</h1>
+        <pre><blockquote>What are your friends reading?</blockquote>Chances are your friends are discussing their favorite (and least favorite) books on Bookstagram!!
+        </pre>
+        <a href="" class="linkss">VISIT US TO BINGE READ WITH NEW FRIENDS</a>
+        </div> 
+        </section>     
+    </body>
+</html>
